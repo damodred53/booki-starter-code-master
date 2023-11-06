@@ -38,6 +38,7 @@ ul {
     max-width: 1440px;
     padding: 0 50px;
     box-sizing: border-box;
+   
 }
 
 h1 {
@@ -622,7 +623,7 @@ padding: 2% 30% 2% 2%;
         padding-bottom: 0%;
     }
     .picture_hebergement {
-        height: 65%;
+        height: 55%;
         padding: 1%;
         width: 100%;
         
@@ -696,6 +697,12 @@ padding: 2% 30% 2% 2%;
     .hebergements-and-populaires section  {
         border-radius: 0px;
     }
+
+    .navbar_header {
+        justify-content: center;
+        gap: 0%;
+    }
+
     .link {
         border-bottom: #d9d9d9 1px solid;
 
